@@ -1,2 +1,2 @@
-# FGBPro
-First Global Bank Investment Assistant
+# KarounAssistant
+Menu assistant - website version
